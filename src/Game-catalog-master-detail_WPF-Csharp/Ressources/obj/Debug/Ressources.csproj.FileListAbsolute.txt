@@ -1,0 +1,42 @@
+U:\Projet_WPF\Hertel_Bub_WPF\Ressources\bin\Debug\Ressources.dll
+U:\Projet_WPF\Hertel_Bub_WPF\Ressources\bin\Debug\Ressources.pdb
+U:\Projet_WPF\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.g.resources
+U:\Projet_WPF\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.csproj.CoreCompileInputs.cache
+U:\Projet_WPF\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.dll
+U:\Projet_WPF\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.pdb
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Ressources\bin\Debug\Ressources.dll
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Ressources\bin\Debug\Ressources.pdb
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.g.resources
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.dll
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.pdb
+U:\Projet\Hertel_Bub_WPF\Ressources\bin\Debug\Ressources.dll
+U:\Projet\Hertel_Bub_WPF\Ressources\bin\Debug\Ressources.pdb
+U:\Projet\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.csprojAssemblyReference.cache
+U:\Projet\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.g.resources
+U:\Projet\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.csproj.CoreCompileInputs.cache
+U:\Projet\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.dll
+U:\Projet\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.pdb
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.csprojAssemblyReference.cache
+U:\Projet2.0\Hertel_Bub_WPF\Ressources\bin\Debug\Ressources.dll
+U:\Projet2.0\Hertel_Bub_WPF\Ressources\bin\Debug\Ressources.pdb
+U:\Projet2.0\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.csprojAssemblyReference.cache
+U:\Projet2.0\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.g.resources
+U:\Projet2.0\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.csproj.CoreCompileInputs.cache
+U:\Projet2.0\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.dll
+U:\Projet2.0\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.pdb
+U:\Projet_WPF\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.csprojAssemblyReference.cache
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Ressources\bin\Debug\Ressources.dll
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Ressources\bin\Debug\Ressources.pdb
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.csprojAssemblyReference.cache
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.g.resources
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.dll
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.pdb
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Ressources\bin\Debug\Ressources.dll
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Ressources\bin\Debug\Ressources.pdb
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.csprojAssemblyReference.cache
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.g.resources
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.dll
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Ressources\obj\Debug\Ressources.pdb

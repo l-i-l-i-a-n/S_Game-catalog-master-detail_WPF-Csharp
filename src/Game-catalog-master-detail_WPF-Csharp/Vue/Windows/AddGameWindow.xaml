@@ -1,0 +1,96 @@
+﻿<Window x:Class="Vue.Windows.AddGameWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vue.Windows"
+        mc:Ignorable="d"
+        Height="800" Width="600" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Topmost="True" WindowStyle="None">
+    <Border BorderThickness="1" BorderBrush="White">
+        <Grid>
+            <Grid.Background>
+                <ImageBrush ImageSource="/Ressources;Component/Images/background.png"/>
+            </Grid.Background>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Text="Ajouter un jeu" FontSize="16" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,20,0,0" Foreground="#FFECECEC" FontWeight="Bold"/>
+
+            <StackPanel Grid.Row="1" Margin="20,20,10,20">
+                <TextBlock Text="Titre du jeu :" Foreground="#FFECECEC" FontWeight="Bold"/>
+                <TextBox Name="titre" Margin="0,5,0,10"/>
+                <TextBlock Text="Editeur :" Foreground="#FFECECEC" FontWeight="Bold"/>
+                <TextBox Name="editeur" Margin="0,5,0,10"/>
+                <TextBlock Text="Développeur : " Foreground="#FFECECEC" FontWeight="Bold"/>
+                <TextBox Name="dev" Margin="0,5,0,10"/>
+                <TextBlock Text="Date de sortie :" Foreground="#FFECECEC" FontWeight="Bold"/>
+                <DatePicker Name="date" BorderThickness="1" Padding="0" Margin="0,5,0,0" Background="White" BorderBrush="#FFABADB3" Height="18" Foreground="#FF555555"/>
+            </StackPanel>
+
+
+            <Image Grid.Row="1" Grid.Column="1" Name="image" Stretch="UniformToFill" Margin="10,20,20,20" HorizontalAlignment="Center" Height="186"/>
+            <Button Name="Import_Image" Grid.Row="1" Grid.Column="1" Padding="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16" BorderThickness="1" Click="Import_Image_Click" Background="#33000000" Foreground="#FFECECEC" FontWeight="Bold" Margin="10,20,20,20"/>
+
+            <StackPanel Grid.Row="2" Grid.ColumnSpan="2" Margin="20,0,20,20">
+                <TextBlock Text="Bande-annonce (emplacement local) : " Foreground="#FFECECEC" FontWeight="Bold"/>
+                <Button Name="Video_Button" Margin="0,5,0,0" Height="18" Padding="0" Click="Import_Video_Click" BorderBrush="#FFACACAC" Background="#FFECECEC" Foreground="#FF555555"></Button>
+            </StackPanel>
+
+            <StackPanel Grid.Row="3" Margin="20,0,10,0">
+                <Label Content="Genres : " Padding="0" Margin="0,0,0,5"/>
+                <CheckBox Content="Action" IsChecked="{Binding Action}"/>
+                <CheckBox Content="Combat" IsChecked="{Binding Combat}"/>
+                <CheckBox Content="Stratégie" IsChecked="{Binding Strategie}"/>
+                <CheckBox Content="Simulation" IsChecked="{Binding Simulation}"/>
+                <CheckBox Content="Jeu de rôle" IsChecked="{Binding JeuDeRole}"/>
+                <CheckBox Content="Multijoueur" IsChecked="{Binding Multijoueur}"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="3" Grid.Column="1" Margin="10,0,20,0">
+                <Label Content="Plateformes : " Padding="0" Margin="0,0,0,5"/>
+                <CheckBox Content="Xbox One" IsChecked="{Binding XboxOne}"/>
+                <CheckBox Content="PlayStation 4" IsChecked="{Binding PS4}"/>
+                <CheckBox Content="Nintendo Switch" IsChecked="{Binding Switch}"/>
+                <CheckBox Content="PC" IsChecked="{Binding PC}"/>
+                <CheckBox Content="iOS" IsChecked="{Binding IOS}"/>
+                <CheckBox Content="Android" IsChecked="{Binding Android}"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="4" Margin="20" Grid.ColumnSpan="2">
+                <Label Content="Restriction d'âge :" Padding="0" HorizontalAlignment="Center" Margin="0,0,0,5"/>
+                <WrapPanel Height="40" HorizontalAlignment="Center">
+                    <RadioButton GroupName="age" IsChecked="{Binding Pegi3, Mode=TwoWay}" Style="{DynamicResource Pegi3_RadioButton_Style}" Margin="0,0,10,0"></RadioButton>
+                    <RadioButton GroupName="age" IsChecked="{Binding Pegi7}" Style="{DynamicResource Pegi7_RadioButton_Style}" Margin="0,0,10,0"></RadioButton>
+                    <RadioButton GroupName="age" IsChecked="{Binding Pegi12}" Style="{DynamicResource Pegi12_RadioButton_Style}"></RadioButton>
+                    <RadioButton GroupName="age" IsChecked="{Binding Pegi16}" Style="{DynamicResource Pegi16_RadioButton_Style}" Margin="10,0,0,0"></RadioButton>
+                    <RadioButton GroupName="age" IsChecked="{Binding Pegi18}" Style="{DynamicResource Pegi18_RadioButton_Style}" Margin="10,0,0,0"></RadioButton>
+                </WrapPanel>
+            </StackPanel>
+
+            <StackPanel Grid.Row="5" Grid.ColumnSpan="2" Margin="20,0">
+                <TextBlock Text="Description :" HorizontalAlignment="Center" Margin="0,0,0,5" Foreground="#FFECECEC" FontWeight="Bold"/>
+                <TextBox AcceptsReturn="True" TextWrapping="Wrap" Name="descrip" Height="150" Foreground="#FF555555"/>
+            </StackPanel>
+
+            <!--
+        <StackPanel>
+            Bannière
+        </StackPanel>
+        -->
+
+            <Button Name="Exit_Button" Grid.Row="6" Content="Annuler" BorderThickness="1" Background="#FFECECEC" BorderBrush="#FFACACAC" Foreground="#FF555555" FontWeight="Bold" Padding="5,2" HorizontalContentAlignment="Center" Click="Exit_Button_Click" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Button Name="NewGame_Button" Grid.Row="6" Content="Valider" BorderThickness="1" Background="#FFECECEC" BorderBrush="#FFACACAC" Foreground="#FF555555" FontWeight="Bold" Padding="5,2" HorizontalContentAlignment="Center" Click="NewGame_Click" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1"/>
+        </Grid>
+    </Border>
+</Window>

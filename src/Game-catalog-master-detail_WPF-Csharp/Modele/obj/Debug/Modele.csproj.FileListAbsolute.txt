@@ -1,0 +1,52 @@
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Modele\bin\Debug\Modele.dll
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Modele\bin\Debug\Modele.pdb
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Modele\obj\Debug\Modele.csprojAssemblyReference.cache
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Modele\obj\Debug\Modele.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Modele\obj\Debug\Modele.dll
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Modele\obj\Debug\Modele.pdb
+U:\Projet\Hertel_Bub_WPF\Modele\bin\Debug\Modele.dll
+U:\Projet\Hertel_Bub_WPF\Modele\bin\Debug\Modele.pdb
+U:\Projet\Hertel_Bub_WPF\Modele\obj\Debug\Modele.csprojAssemblyReference.cache
+U:\Projet\Hertel_Bub_WPF\Modele\obj\Debug\Modele.csproj.CoreCompileInputs.cache
+U:\Projet\Hertel_Bub_WPF\Modele\obj\Debug\Modele.dll
+U:\Projet\Hertel_Bub_WPF\Modele\obj\Debug\Modele.pdb
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Modele\bin\Debug\Modele.dll
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Modele\bin\Debug\Modele.pdb
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Modele\obj\Debug\Modele.csprojAssemblyReference.cache
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Modele\obj\Debug\Modele.csproj.CoreCompileInputs.cache
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Modele\obj\Debug\Modele.dll
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Modele\obj\Debug\Modele.pdb
+U:\Projet_WPF\Hertel_Bub_WPF\Modele\bin\Debug\Modele.dll
+U:\Projet_WPF\Hertel_Bub_WPF\Modele\bin\Debug\Modele.pdb
+U:\Projet_WPF\Hertel_Bub_WPF\Modele\obj\Debug\Modele.csproj.CoreCompileInputs.cache
+U:\Projet_WPF\Hertel_Bub_WPF\Modele\obj\Debug\Modele.dll
+U:\Projet_WPF\Hertel_Bub_WPF\Modele\obj\Debug\Modele.pdb
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Modele\bin\Debug\Modele.dll
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Modele\bin\Debug\Modele.pdb
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Modele\obj\Debug\Modele.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Modele\obj\Debug\Modele.dll
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Modele\obj\Debug\Modele.pdb
+U:\Projet2.0\Hertel_Bub_WPF\Modele\bin\Debug\Modele.dll
+U:\Projet2.0\Hertel_Bub_WPF\Modele\bin\Debug\Modele.pdb
+U:\Projet2.0\Hertel_Bub_WPF\Modele\obj\Debug\Modele.csprojAssemblyReference.cache
+U:\Projet2.0\Hertel_Bub_WPF\Modele\obj\Debug\Modele.csproj.CoreCompileInputs.cache
+U:\Projet2.0\Hertel_Bub_WPF\Modele\obj\Debug\Modele.dll
+U:\Projet2.0\Hertel_Bub_WPF\Modele\obj\Debug\Modele.pdb
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Modele\bin\Debug\Modele.dll
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Modele\bin\Debug\Modele.pdb
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Modele\obj\Debug\Modele.csprojAssemblyReference.cache
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Modele\obj\Debug\Modele.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Modele\obj\Debug\Modele.dll
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Modele\obj\Debug\Modele.pdb
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Modele\bin\Debug\Modele.dll
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Modele\bin\Debug\Modele.pdb
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Modele\obj\Debug\Modele.csprojAssemblyReference.cache
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Modele\obj\Debug\Modele.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Modele\obj\Debug\Modele.dll
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Modele\obj\Debug\Modele.pdb
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Modele\bin\Debug\Modele.dll
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Modele\bin\Debug\Modele.pdb
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Modele\obj\Debug\Modele.csprojAssemblyReference.cache
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Modele\obj\Debug\Modele.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Modele\obj\Debug\Modele.dll
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Modele\obj\Debug\Modele.pdb

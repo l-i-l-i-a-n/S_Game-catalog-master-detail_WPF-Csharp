@@ -1,0 +1,81 @@
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Donnees\bin\Debug\Donnees.dll
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Donnees\bin\Debug\Donnees.pdb
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Donnees\bin\Debug\Modele.dll
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Donnees\bin\Debug\Modele.pdb
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csprojAssemblyReference.cache
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csproj.CopyComplete
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.dll
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.pdb
+U:\Projet\Hertel_Bub_WPF\Donnees\bin\Debug\Donnees.dll
+U:\Projet\Hertel_Bub_WPF\Donnees\bin\Debug\Donnees.pdb
+U:\Projet\Hertel_Bub_WPF\Donnees\bin\Debug\Modele.dll
+U:\Projet\Hertel_Bub_WPF\Donnees\bin\Debug\Modele.pdb
+U:\Projet\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csprojAssemblyReference.cache
+U:\Projet\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csproj.CoreCompileInputs.cache
+U:\Projet\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csproj.CopyComplete
+U:\Projet\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.dll
+U:\Projet\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.pdb
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Donnees\bin\Debug\Donnees.dll
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Donnees\bin\Debug\Donnees.pdb
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Donnees\bin\Debug\Modele.dll
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Donnees\bin\Debug\Modele.pdb
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csprojAssemblyReference.cache
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csproj.CoreCompileInputs.cache
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csproj.CopyComplete
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.dll
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.pdb
+U:\Projet_WPF\Hertel_Bub_WPF\Donnees\bin\Debug\Donnees.dll
+U:\Projet_WPF\Hertel_Bub_WPF\Donnees\bin\Debug\Donnees.pdb
+U:\Projet_WPF\Hertel_Bub_WPF\Donnees\bin\Debug\Modele.dll
+U:\Projet_WPF\Hertel_Bub_WPF\Donnees\bin\Debug\Modele.pdb
+U:\Projet_WPF\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csprojAssemblyReference.cache
+U:\Projet_WPF\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csproj.CoreCompileInputs.cache
+U:\Projet_WPF\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csproj.CopyComplete
+U:\Projet_WPF\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.dll
+U:\Projet_WPF\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.pdb
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Donnees\bin\Debug\Donnees.dll
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Donnees\bin\Debug\Donnees.pdb
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Donnees\bin\Debug\Modele.dll
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Donnees\bin\Debug\Modele.pdb
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csprojAssemblyReference.cache
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csproj.CopyComplete
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.dll
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.pdb
+U:\Projet2.0\Hertel_Bub_WPF\Donnees\bin\Debug\Donnees.dll
+U:\Projet2.0\Hertel_Bub_WPF\Donnees\bin\Debug\Donnees.pdb
+U:\Projet2.0\Hertel_Bub_WPF\Donnees\bin\Debug\Modele.dll
+U:\Projet2.0\Hertel_Bub_WPF\Donnees\bin\Debug\Modele.pdb
+U:\Projet2.0\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csprojAssemblyReference.cache
+U:\Projet2.0\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csproj.CoreCompileInputs.cache
+U:\Projet2.0\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csproj.CopyComplete
+U:\Projet2.0\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.dll
+U:\Projet2.0\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.pdb
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Donnees\bin\Debug\Donnees.dll
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Donnees\bin\Debug\Donnees.pdb
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Donnees\bin\Debug\Modele.dll
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Donnees\bin\Debug\Modele.pdb
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csprojAssemblyReference.cache
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csproj.CopyComplete
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.dll
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.pdb
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Donnees\bin\Debug\Donnees.dll
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Donnees\bin\Debug\Donnees.pdb
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Donnees\bin\Debug\Modele.dll
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Donnees\bin\Debug\Modele.pdb
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csprojAssemblyReference.cache
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csproj.CopyComplete
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.dll
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.pdb
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Donnees\bin\Debug\Donnees.dll
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Donnees\bin\Debug\Donnees.pdb
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Donnees\bin\Debug\Modele.dll
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Donnees\bin\Debug\Modele.pdb
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csprojAssemblyReference.cache
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.csproj.CopyComplete
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.dll
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Donnees\obj\Debug\Donnees.pdb

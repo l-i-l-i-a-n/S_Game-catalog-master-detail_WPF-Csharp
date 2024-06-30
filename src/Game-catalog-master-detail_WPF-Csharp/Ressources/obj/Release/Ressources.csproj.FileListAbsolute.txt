@@ -1,0 +1,7 @@
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Ressources\bin\Release\Ressources.dll
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Ressources\bin\Release\Ressources.pdb
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Ressources\obj\Release\Ressources.csprojAssemblyReference.cache
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Ressources\obj\Release\Ressources.g.resources
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Ressources\obj\Release\Ressources.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Ressources\obj\Release\Ressources.dll
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Ressources\obj\Release\Ressources.pdb

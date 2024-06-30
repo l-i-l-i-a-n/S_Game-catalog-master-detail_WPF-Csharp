@@ -1,0 +1,9 @@
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Donnees\bin\Release\Donnees.dll
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Donnees\bin\Release\Donnees.pdb
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Donnees\bin\Release\Modele.dll
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Donnees\bin\Release\Modele.pdb
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Donnees\obj\Release\Donnees.csprojAssemblyReference.cache
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Donnees\obj\Release\Donnees.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Donnees\obj\Release\Donnees.csproj.CopyComplete
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Donnees\obj\Release\Donnees.dll
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Donnees\obj\Release\Donnees.pdb

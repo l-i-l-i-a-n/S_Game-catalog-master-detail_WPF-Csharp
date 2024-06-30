@@ -1,0 +1,108 @@
+﻿<UserControl x:Class="Vue.UserControls.Detail_UC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Vue.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <ScrollViewer ScrollViewer.VerticalScrollBarVisibility="Hidden">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="2*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <!--<Image Source="{Binding Source_Image}" Stretch="UniformToFill" HorizontalAlignment="Center" Margin="20,20,0,0"/>-->
+            <Border Margin="20,20,0,0"  BorderThickness="1" BorderBrush="#FF707070">
+                <MediaElement Source="{Binding Source_Video}" Name="Video" LoadedBehavior="Manual" Volume="1" Stretch="UniformToFill" HorizontalAlignment="Center"/>
+            </Border>
+            <TextBlock Name="Video_Placeholder_Textblock" Margin="20,20,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White" FontWeight="Bold"></TextBlock>
+
+            <Border BorderThickness="8"  Margin="23,0,3,3"  CornerRadius="15" VerticalAlignment="Bottom" Background="#99000000" BorderBrush="#99000000" Padding="0">
+                <Grid VerticalAlignment="Bottom" Opacity="0.5" Height="20">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="80"/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="25"/>
+                        <ColumnDefinition Width="25"/>
+                    </Grid.ColumnDefinitions>
+                    <Button Name="MuteVolume_Button" Style="{StaticResource MuteVolumeButton_Style}" Background="{x:Null}" BorderBrush="{x:Null}" Click="MuteVolume_Button_Click"/>
+                    <Slider Minimum="0" Maximum="1" Name="volumeSlider" Opacity="0.7" ValueChanged="VolumeSlider_ValueChanged" VerticalAlignment="Center" Grid.Column="1" Margin="5,0"/>
+                    <Button Name="Pause_Button" Style="{StaticResource PauseButton_Style}" Background="{x:Null}" BorderBrush="{x:Null}" Click="Pause_Button_Click" Grid.Column="2" HorizontalAlignment="Right"/>
+                    <Button Name="Play_Button" Style="{StaticResource PlayButton_Style}" Background="{x:Null}" BorderBrush="{x:Null}" Click="Play_Button_Click" Grid.Column="3" HorizontalAlignment="Right" />
+                    <Button Name="Fullscreen_Button" Style="{StaticResource FullscreenButton_Style}" Background="{x:Null}" BorderBrush="{x:Null}" DockPanel.Dock="Right" Click="Fullscreen_Button_Click" Grid.Column="4" HorizontalAlignment="Right"/>
+                </Grid>
+            </Border>
+
+            <Grid Grid.Column="1" Margin="20,20,20,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="8*"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <WrapPanel VerticalAlignment="Center">
+                    <TextBlock Text="Titre du jeu : " Foreground="#FFECECEC" FontSize="14" FontWeight="Bold"/>
+                    <TextBlock Text="{Binding Titre, UpdateSourceTrigger=PropertyChanged}" Foreground="#FFECECEC" FontSize="14" TextWrapping="Wrap"/>
+                </WrapPanel>
+                <WrapPanel Grid.Row="1" VerticalAlignment="Center">
+                    <TextBlock Text="Genres : " Foreground="#FFECECEC" FontSize="14" FontWeight="Bold"/>
+                    <TextBlock Text="{Binding Genres_String, UpdateSourceTrigger=PropertyChanged}" Foreground="#FFECECEC" FontSize="14" TextWrapping="Wrap"/>
+                </WrapPanel>
+                <WrapPanel Grid.Row="2" VerticalAlignment="Center">
+                    <TextBlock Text="Date de sortie : " Foreground="#FFECECEC" FontSize="14" FontWeight="Bold"/>
+                    <TextBlock Text="{Binding DateSortie, UpdateSourceTrigger=PropertyChanged, StringFormat=dd/MM/yyyy}" Foreground="#FFECECEC" FontSize="14" TextWrapping="Wrap"/>
+                </WrapPanel>
+                <WrapPanel Grid.Row="3" VerticalAlignment="Center">
+                    <TextBlock Text="Développeur : " Foreground="#FFECECEC" FontSize="14" FontWeight="Bold"/>
+                    <TextBlock Text="{Binding Developpeur, UpdateSourceTrigger=PropertyChanged}" Foreground="#FFECECEC" FontSize="14" TextWrapping="Wrap"/>
+                </WrapPanel>
+                <WrapPanel Grid.Row="4" VerticalAlignment="Center">
+                    <TextBlock Text="Editeur : " Foreground="#FFECECEC" FontSize="14" FontWeight="Bold"/>
+                    <TextBlock Text="{Binding Editeur, UpdateSourceTrigger=PropertyChanged}" Foreground="#FFECECEC" FontSize="14" TextWrapping="Wrap"/>
+                </WrapPanel>
+                <WrapPanel Grid.Row="5" VerticalAlignment="Center">
+                    <TextBlock Text="Plateformes : " Foreground="#FFECECEC" FontSize="14" FontWeight="Bold"/>
+                    <TextBlock Text="{Binding Plateformes_String, UpdateSourceTrigger=PropertyChanged}" Foreground="#FFECECEC" FontSize="14" TextWrapping="Wrap"/>
+                </WrapPanel>
+                <Image Grid.Column="2" Source="{Binding Chemin_Pegi}" Grid.RowSpan="6"></Image>
+            </Grid>
+
+
+                <StackPanel Grid.Row="1" Grid.ColumnSpan="2" Margin="10,0,10,20">
+                    <TextBlock Text="Description du jeu : " Foreground="#FFECECEC" FontSize="14" FontWeight="Bold" VerticalAlignment="Center" Margin="10,40,0,20"/>
+                    <TextBlock Text="{Binding Description, UpdateSourceTrigger=PropertyChanged}" Foreground="#FFECECEC" FontSize="14" TextWrapping="Wrap" TextAlignment="Justify" Grid.Row="1" Grid.ColumnSpan="2" Margin="10,0"/>
+                <WrapPanel>
+                    <TextBlock Grid.Row="3" Text="Galerie d'images : " Foreground="#FFECECEC" FontSize="14" FontWeight="Bold" VerticalAlignment="Bottom" Margin="10,40,0,0"/>
+                    <Button Opacity="0.8" Name="AjoutImage" Content="Ajouter une image" Grid.Column="1" Grid.Row="2" Width="120" Click="AjoutImage_Click" HorizontalContentAlignment="Center" Margin="50,0,0,0" Padding="0" Height="19" VerticalAlignment="Bottom" Foreground="#FF555555" Background="#FFECECEC" BorderBrush="#FFACACAC" FontWeight="Bold"/>
+                </WrapPanel>
+                    <ItemsControl ItemsSource="{Binding Galerie}" Grid.Row="3" Grid.ColumnSpan="2">
+                        <ItemsControl.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <UniformGrid Columns="2"></UniformGrid>
+                            </ItemsPanelTemplate>
+                        </ItemsControl.ItemsPanel>
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <Image Source="{Binding}" Margin="10,20,10,0" Stretch="UniformToFill"></Image>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                </StackPanel>
+
+        </Grid>
+    </ScrollViewer>
+
+</UserControl>

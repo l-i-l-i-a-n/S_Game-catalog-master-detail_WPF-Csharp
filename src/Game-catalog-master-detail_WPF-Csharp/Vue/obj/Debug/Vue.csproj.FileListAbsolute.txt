@@ -1,0 +1,275 @@
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\bin\Debug\Vue.exe.config
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\bin\Debug\Vue.exe
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\bin\Debug\Vue.pdb
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\bin\Debug\Donnees.dll
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\bin\Debug\Modele.dll
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\bin\Debug\Donnees.pdb
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\bin\Debug\Modele.pdb
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csprojAssemblyReference.cache
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\obj\Debug\MainWindow.g.cs
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\obj\Debug\App.g.cs
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\obj\Debug\Vue_MarkupCompile.cache
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\obj\Debug\Vue_MarkupCompile.lref
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\obj\Debug\MainWindow.baml
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\obj\Debug\Vue.g.resources
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\obj\Debug\Vue.Properties.Resources.resources
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.GenerateResource.cache
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.CopyComplete
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\obj\Debug\Vue.exe
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\obj\Debug\Vue.pdb
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\MasterDetailUC.g.cs
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\obj\Debug\Windows\AddGameWindow.g.cs
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\MasterDetailUC.baml
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\obj\Debug\Windows\AddGameWindow.baml
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\Vue\obj\Debug\App.baml
+U:\Projet\Hertel_Bub_WPF\Vue\bin\Debug\Vue.exe.config
+U:\Projet\Hertel_Bub_WPF\Vue\bin\Debug\Vue.exe
+U:\Projet\Hertel_Bub_WPF\Vue\bin\Debug\Vue.pdb
+U:\Projet\Hertel_Bub_WPF\Vue\bin\Debug\Donnees.dll
+U:\Projet\Hertel_Bub_WPF\Vue\bin\Debug\Modele.dll
+U:\Projet\Hertel_Bub_WPF\Vue\bin\Debug\Donnees.pdb
+U:\Projet\Hertel_Bub_WPF\Vue\bin\Debug\Modele.pdb
+U:\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csprojAssemblyReference.cache
+U:\Projet\Hertel_Bub_WPF\Vue\obj\Debug\MainWindow.g.cs
+U:\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Windows\AddGameWindow.g.cs
+U:\Projet\Hertel_Bub_WPF\Vue\obj\Debug\App.g.cs
+U:\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Vue_MarkupCompile.cache
+U:\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Vue_MarkupCompile.lref
+U:\Projet\Hertel_Bub_WPF\Vue\obj\Debug\App.baml
+U:\Projet\Hertel_Bub_WPF\Vue\obj\Debug\MainWindow.baml
+U:\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Windows\AddGameWindow.baml
+U:\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Vue.g.resources
+U:\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Vue.Properties.Resources.resources
+U:\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.GenerateResource.cache
+U:\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.CoreCompileInputs.cache
+U:\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.CopyComplete
+U:\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Vue.exe
+U:\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Vue.pdb
+U:\Projet\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Master_UC.g.cs
+U:\Projet\Hertel_Bub_WPF\Vue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+U:\Projet\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Master_UC.baml
+U:\Projet\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Detail_UC.g.cs
+U:\Projet\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Detail_UC.baml
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\bin\Debug\Vue.exe.config
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\bin\Debug\Vue.exe
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\bin\Debug\Vue.pdb
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\bin\Debug\Donnees.dll
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\bin\Debug\Modele.dll
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\bin\Debug\Donnees.pdb
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\bin\Debug\Modele.pdb
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csprojAssemblyReference.cache
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\obj\Debug\MainWindow.g.cs
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Detail_UC.g.cs
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Master_UC.g.cs
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\obj\Debug\Windows\AddGameWindow.g.cs
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\obj\Debug\App.g.cs
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\obj\Debug\Vue_MarkupCompile.cache
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\obj\Debug\Vue_MarkupCompile.lref
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\obj\Debug\App.baml
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\obj\Debug\MainWindow.baml
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Detail_UC.baml
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Master_UC.baml
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\obj\Debug\Windows\AddGameWindow.baml
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\obj\Debug\Vue.g.resources
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\obj\Debug\Vue.Properties.Resources.resources
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.GenerateResource.cache
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.CoreCompileInputs.cache
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.CopyComplete
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\obj\Debug\Vue.exe
+U:\ProjetIHM2.0\Hertel_Bub_WPF\Vue\obj\Debug\Vue.pdb
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\bin\Debug\Vue.exe.config
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\bin\Debug\Vue.exe
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\bin\Debug\Vue.pdb
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\bin\Debug\Donnees.dll
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\bin\Debug\Modele.dll
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\bin\Debug\Donnees.pdb
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\bin\Debug\Modele.pdb
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csprojAssemblyReference.cache
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\obj\Debug\MainWindow.g.cs
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Detail_UC.g.cs
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Master_UC.g.cs
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\obj\Debug\Windows\AddGameWindow.g.cs
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\obj\Debug\App.g.cs
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\obj\Debug\Vue_MarkupCompile.cache
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\obj\Debug\Vue_MarkupCompile.lref
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\obj\Debug\App.baml
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\obj\Debug\MainWindow.baml
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Detail_UC.baml
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Master_UC.baml
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\obj\Debug\Windows\AddGameWindow.baml
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\obj\Debug\Vue.g.resources
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\obj\Debug\Vue.Properties.Resources.resources
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.GenerateResource.cache
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.CoreCompileInputs.cache
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.CopyComplete
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\obj\Debug\Vue.exe
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\obj\Debug\Vue.pdb
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\bin\Debug\Ressources.dll
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\bin\Debug\Ressources.pdb
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\bin\Debug\Vue.exe.config
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\bin\Debug\Vue.exe
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\bin\Debug\Vue.pdb
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\bin\Debug\Donnees.dll
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\bin\Debug\Modele.dll
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\bin\Debug\Ressources.dll
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\bin\Debug\Donnees.pdb
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\bin\Debug\Modele.pdb
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\bin\Debug\Ressources.pdb
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csprojAssemblyReference.cache
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\obj\Debug\MainWindow.g.cs
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Detail_UC.g.cs
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Master_UC.g.cs
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Windows\AddGameWindow.g.cs
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\obj\Debug\App.g.cs
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Vue_MarkupCompile.cache
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Vue_MarkupCompile.lref
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\obj\Debug\App.baml
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\obj\Debug\MainWindow.baml
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Detail_UC.baml
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Master_UC.baml
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Windows\AddGameWindow.baml
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Vue.g.resources
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Vue.Properties.Resources.resources
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.GenerateResource.cache
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.CopyComplete
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Vue.exe
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Vue.pdb
+U:\Projet\Hertel_Bub_WPF\Vue\bin\Debug\Ressources.dll
+U:\Projet\Hertel_Bub_WPF\Vue\bin\Debug\Ressources.pdb
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Windows\VideoPlayerWindow.g.cs
+C:\Users\Lilian\Documents\IUT\Cours\IHM\Projet\Hertel_Bub_WPF\Vue\obj\Debug\Windows\VideoPlayerWindow.baml
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\obj\Debug\Windows\VideoPlayerWindow.g.cs
+U:\Projet_WPF\Hertel_Bub_WPF\Vue\obj\Debug\Windows\VideoPlayerWindow.baml
+U:\Projet2.0\Hertel_Bub_WPF\Vue\bin\Debug\Vue.exe.config
+U:\Projet2.0\Hertel_Bub_WPF\Vue\bin\Debug\Vue.exe
+U:\Projet2.0\Hertel_Bub_WPF\Vue\bin\Debug\Vue.pdb
+U:\Projet2.0\Hertel_Bub_WPF\Vue\bin\Debug\Donnees.dll
+U:\Projet2.0\Hertel_Bub_WPF\Vue\bin\Debug\Modele.dll
+U:\Projet2.0\Hertel_Bub_WPF\Vue\bin\Debug\Ressources.dll
+U:\Projet2.0\Hertel_Bub_WPF\Vue\bin\Debug\Donnees.pdb
+U:\Projet2.0\Hertel_Bub_WPF\Vue\bin\Debug\Modele.pdb
+U:\Projet2.0\Hertel_Bub_WPF\Vue\bin\Debug\Ressources.pdb
+U:\Projet2.0\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csprojAssemblyReference.cache
+U:\Projet2.0\Hertel_Bub_WPF\Vue\obj\Debug\MainWindow.g.cs
+U:\Projet2.0\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Detail_UC.g.cs
+U:\Projet2.0\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Master_UC.g.cs
+U:\Projet2.0\Hertel_Bub_WPF\Vue\obj\Debug\Windows\AddGameWindow.g.cs
+U:\Projet2.0\Hertel_Bub_WPF\Vue\obj\Debug\Windows\VideoPlayerWindow.g.cs
+U:\Projet2.0\Hertel_Bub_WPF\Vue\obj\Debug\App.g.cs
+U:\Projet2.0\Hertel_Bub_WPF\Vue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+U:\Projet2.0\Hertel_Bub_WPF\Vue\obj\Debug\Vue_MarkupCompile.cache
+U:\Projet2.0\Hertel_Bub_WPF\Vue\obj\Debug\Vue_MarkupCompile.lref
+U:\Projet2.0\Hertel_Bub_WPF\Vue\obj\Debug\App.baml
+U:\Projet2.0\Hertel_Bub_WPF\Vue\obj\Debug\MainWindow.baml
+U:\Projet2.0\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Detail_UC.baml
+U:\Projet2.0\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Master_UC.baml
+U:\Projet2.0\Hertel_Bub_WPF\Vue\obj\Debug\Windows\AddGameWindow.baml
+U:\Projet2.0\Hertel_Bub_WPF\Vue\obj\Debug\Windows\VideoPlayerWindow.baml
+U:\Projet2.0\Hertel_Bub_WPF\Vue\obj\Debug\Vue.g.resources
+U:\Projet2.0\Hertel_Bub_WPF\Vue\obj\Debug\Vue.Properties.Resources.resources
+U:\Projet2.0\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.GenerateResource.cache
+U:\Projet2.0\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.CoreCompileInputs.cache
+U:\Projet2.0\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.CopyComplete
+U:\Projet2.0\Hertel_Bub_WPF\Vue\obj\Debug\Vue.exe
+U:\Projet2.0\Hertel_Bub_WPF\Vue\obj\Debug\Vue.pdb
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Vue.exe.config
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Vue.exe
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Vue.pdb
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Donnees.dll
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Modele.dll
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Ressources.dll
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Donnees.pdb
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Modele.pdb
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Ressources.pdb
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csprojAssemblyReference.cache
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\MainWindow.g.cs
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Detail_UC.g.cs
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Master_UC.g.cs
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Windows\AddGameWindow.g.cs
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Windows\VideoPlayerWindow.g.cs
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\App.g.cs
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue_MarkupCompile.cache
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue_MarkupCompile.lref
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\App.baml
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\MainWindow.baml
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Detail_UC.baml
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Master_UC.baml
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Windows\AddGameWindow.baml
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Windows\VideoPlayerWindow.baml
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue.g.resources
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue.Properties.Resources.resources
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.GenerateResource.cache
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.CopyComplete
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue.exe
+C:\Users\Lilian\Desktop\Hertel_Bub_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue.pdb
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Vue.exe.config
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Vue.exe
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Vue.pdb
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Donnees.dll
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Modele.dll
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Ressources.dll
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Donnees.pdb
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Modele.pdb
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Ressources.pdb
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csprojAssemblyReference.cache
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\MainWindow.g.cs
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Detail_UC.g.cs
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Master_UC.g.cs
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Windows\AddGameWindow.g.cs
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Windows\VideoPlayerWindow.g.cs
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\App.g.cs
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue_MarkupCompile.cache
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue_MarkupCompile.lref
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\App.baml
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\MainWindow.baml
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Detail_UC.baml
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Master_UC.baml
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Windows\AddGameWindow.baml
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Windows\VideoPlayerWindow.baml
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue.g.resources
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue.Properties.Resources.resources
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.GenerateResource.cache
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.CopyComplete
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue.exe
+C:\Users\Lilian\Desktop\Projet_WPF\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue.pdb
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Vue.exe.config
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Vue.exe
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Vue.pdb
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Donnees.dll
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Modele.dll
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Ressources.dll
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Donnees.pdb
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Modele.pdb
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\bin\Debug\Ressources.pdb
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csprojAssemblyReference.cache
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\obj\Debug\MainWindow.g.cs
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Detail_UC.g.cs
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Master_UC.g.cs
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Windows\AddGameWindow.g.cs
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Windows\VideoPlayerWindow.g.cs
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\obj\Debug\App.g.cs
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue_MarkupCompile.cache
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue_MarkupCompile.lref
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\obj\Debug\App.baml
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\obj\Debug\MainWindow.baml
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Detail_UC.baml
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\obj\Debug\UserControls\Master_UC.baml
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Windows\AddGameWindow.baml
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Windows\VideoPlayerWindow.baml
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue.g.resources
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue.Properties.Resources.resources
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.GenerateResource.cache
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue.csproj.CopyComplete
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue.exe
+C:\Users\Lilian\Desktop\Nouveau dossier (3)\CODE\Hertel_Bub_WPF\Vue\obj\Debug\Vue.pdb
